@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on JavaScript, TypeScript, Python, Golang
-- 🌱 I'm a fullstack developer for web applications.
-- 💞️ I'm an Devops Engineer with experience working with AWS, supporting libraries like terraform, ansble, cloudformation.
+- 🔭 I’m currently working on **JavaScript**, **TypeScript**, **Python**, **Golang**,..
+- 🌱 I'm a **Fullstack Developer** for Web Applications.
+- 💞️ I'm an **Devops Engineer** with experience working with **AWS** using **terraform**, **ansble**, **cloudformation**...
 
 <!---
 eryknguyen/eryknguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
